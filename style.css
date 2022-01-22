@@ -1,0 +1,17 @@
+.card{
+    width:350px;
+    height: 500px;
+    box-shadow: 2px 2px 2px 5px rgba(228, 227, 227, 0.198);
+    border:none;
+}
+
+.image img{
+    width:327px;
+    height:327px;
+    border-radius: 15px;;
+    
+}
+.icon img{
+    width:78px;
+    height:82px;
+}
